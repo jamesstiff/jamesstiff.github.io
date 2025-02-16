@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog Archives | James Stiff</title>
+	<atom:link href="https://www.jamesstiff.com/tag/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.jamesstiff.com/tag/blog/</link>
+	<description>An experienced digital designer based in Manchester, UK.</description>
+	<lastBuildDate>Tue, 22 Jan 2013 17:54:16 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6047165</site>	<item>
+		<title>Hackintosh</title>
+		<link>https://www.jamesstiff.com/2013/01/22/hackintosh/</link>
+		
+		<dc:creator><![CDATA[stiffy]]></dc:creator>
+		<pubDate>Tue, 22 Jan 2013 17:54:16 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://www.jamesstiff.com/?p=104</guid>
+
+					<description><![CDATA[<p>Hackintosh I started off 2013 with a strong desire build something. By hand. I’d been considering building a Hackintosh for some time but couldn’t really justify the indulgence until my six year old Mac Pro workhorse decided it was time for the glue factory (which it inevitably did on my first working day of the [&#8230;]</p>
+<p>The post <a href="https://www.jamesstiff.com/2013/01/22/hackintosh/">Hackintosh</a> appeared first on <a href="https://www.jamesstiff.com">James Stiff</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img data-recalc-dims="1" fetchpriority="high" decoding="async" class="alignnone size-full wp-image-105" alt="Hackintosh" src="https://i0.wp.com/stiffy.thisistap.com/wp-content/uploads/2014/06/Hackintosh_220113_1000_nymes6.jpg?resize=770%2C770" width="770" height="770" /></p>
+<h1>Hackintosh</h1>
+<p>I started off 2013 with a strong desire build something. By hand.</p>
+<p>I’d been considering building a Hackintosh for some time but couldn’t really justify the indulgence until my six year old Mac Pro workhorse decided it was time for the glue factory (which it inevitably did on my first working day of the year).</p>
+<p><span id="more-104"></span></p>
+<p>Hackin-what? A Hackintosh is a PC that has been coerced into running Apple's OS X operating system.</p>
+<h3><em>Why did I not just fix the Mac Pro or buy a new one?</em></h3>
+<p>Good question. Well for starters, my Mac Pro model doesn’t support OS X Mountain Lion. Although it is still a capable machine running plain old Lion, the software upgradability is becoming limited.</p>
+<p>Secondly, buying a beautiful new Mac Pro is expensive - at least £500 more (than my proposed Hackintosh) for the lowest spec and not as easily upgradeable.</p>
+<p>Now, I’m no computer expert but I’m fairly comfortable with basic computer upgrades (RAM and Hard Disks etc). I had certainly never built a PC from scratch so it was with some trepidation that I embarked on my Hackintosh journey.</p>
+<p>Thankfully a thriving online Hackintosh community meant it didn’t take long to gather a basic understanding of what I was getting myself into.</p>
+<p>One of the best respected sources of all things Hackintosh is <a title="tonymacx86.com" href="http://www.tonymacx86.com" target="_blank">tonymacx86.com</a>. The site features a number of tried and tested Hackintosh builds (for a range of budgets) plus an active and supportive community in case things go wrong.</p>
+<p>Another good source of information is Lifehacker which provides a good overview of the <a title="lifehacker.com" href="http://lifehacker.com/5841604/the-always-up+to+date-guide-to-building-a-hackintosh" target="_blank">Hackintosh building process</a>.</p>
+<p>After some deliberation, I settled on tonymacx86’s suggested top spec <a title="CustoMac Pro guide" href="http://www.tonymacx86.com/325-building-customac-buyer-s-guide-january-2013.html" target="_blank">CustoMac Pro</a> build which I felt best fitted my current needs but also allows for future upgrades and expansion.</p>
+<h3>The Shopping List</h3>
+<p>Once I had settled on my Hackintosh spec, it was just a case of finding the listed components at the high street’s arch nemesis, Amazon UK.</p>
+<p style="padding-left: 30px;"><strong>Case</strong><br />
+<a href="http://www.amazon.co.uk/dp/B005E983JW" target="_blank">Corsair Carbide 500R microATX Midi PC Tower Black</a></p>
+<p style="padding-left: 30px;"><strong>Motherboard</strong><br />
+<a href="http://www.amazon.co.uk/dp/B008KA7Z32" target="_blank">Gigabyte SKT-1155 Z77X-UP5 TH</a></p>
+<p style="padding-left: 30px;"><strong>CPU</strong><br />
+<a href="http://www.amazon.co.uk/dp/B007X1JM30" target="_blank">Intel 3rd Generation Core i7-3770K</a></p>
+<p style="padding-left: 30px;"><strong>Graphics Card</strong><br />
+<a href="http://www.amazon.co.uk/dp/B007Q87KZ2" target="_blank">EVGA GF GTX 680 SC 2GB GDDR5</a></p>
+<p style="padding-left: 30px;"><strong>RAM</strong><br />
+<a href="http://www.amazon.co.uk/dp/B006EWUO22" target="_blank">Corsair CMZ16GX3M2A1600C10 Vengenace 16GB 1600MHz CL10 DDR3</a></p>
+<p style="padding-left: 30px;"><strong>Solid State Drive</strong><br />
+<a href="http://www.amazon.co.uk/dp/B006EKJCWM" target="_blank">SanDisk SDSSDX-120G-G25 120GB Extreme SATA III 6Gb/s 2.5in</a></p>
+<p style="padding-left: 30px;"><strong>Hard Disk Drive</strong><br />
+<a href="http://www.amazon.co.uk/dp/B006H32Q3S" target="_blank">Seagate Barracuda 3.5 inch 2TB 7200 RPM 64MB 6GB/S</a></p>
+<p style="padding-left: 30px;"><strong>CPU Cooler</strong><br />
+<a href="http://www.amazon.co.uk/dp/B004MYFOE2" target="_blank">Corsair CWCH60 Hydro Series H60</a></p>
+<p style="padding-left: 30px;"><strong>Power Supply</strong><br />
+<a href="http://www.amazon.co.uk/dp/B002W62QJI" target="_blank">Corsair CMPSU-650HX Professional Series 650W</a></p>
+<p style="padding-left: 30px;"><strong>Optical Drive</strong><br />
+<a href="http://www.amazon.co.uk/dp/B0057FRTPW" target="_blank">Sony AD-7280S-0B 24x Internal SATA DVD Multi Writer</a></p>
+<p style="padding-left: 30px;"><strong>Bluetooth Dongle*</strong><br />
+<a href="http://www.amazon.co.uk/dp/B009IQB3US" target="_blank">Belkin USB 4.0 Bluetooth Adapter</a></p>
+<p style="padding-left: 30px;"><strong>WiFi Card*</strong><br />
+<a href="http://www.amazon.co.uk/dp/B006PMX964" target="_blank">TP Link TL-WDN4800 450Mbps Wireless N Dual Band PCI Express Adapter</a></p>
+<p>The motherboard comes with a WiFi/Bluetooth card but it currently isn't supported by this Hackintosh build</p>
+<p><strong>Total cost for components = £1475.96</strong></p>
+<p>In addition to the components, there were a few other items I needed to complete my Hackintosh:</p>
+<p style="padding-left: 30px;"><a href="https://itunes.apple.com/gb/app/os-x-mountain-lion/id537386512?ls=1&amp;mt=12" target="_blank">OS X Mountain Lion</a></p>
+<p style="padding-left: 30px;"><a href="http://www.amazon.co.uk/dp/B000I2JX3A" target="_blank">LINDY Anti-Static Service Kit</a> (grounds you to prevent static electricity from damaging sensitive components)</p>
+<p style="padding-left: 30px;"><a href="http://www.amazon.co.uk/dp/B0001NYK66" target="_blank">PC Computer Tool Kit</a> (this was overkill in the end as I only needed a couple of Phillips screwdrivers)</p>
+<p>I also needed an 8GB USB thumb drive plus another Mac running OS X Lion to create a boot drive. A wired keyboard and mouse was also required for the initial boot and OS X installation, after that I was able to plug in the bluetooth dongle and setup my wireless mouse.</p>
+<h3>The Build</h3>
+<p>Upon receipt of my components, I took some time to prepare: clearing my desk, unpacking components and reading the various installation instructions that came with them.</p>
+<p>Being a newbie, there were quite a few resources which I made good use of to guide me through the build process:</p>
+<p style="padding-left: 30px;"><a href="http://nofilmschool.com/build-a-hackintosh/">NoFilmSchool: How to Build a Hackintosh</a><br />
+Detailed guide to building a Hackintosh - well worth a read.</p>
+<p style="padding-left: 30px;"><a href="http://en.wikibooks.org/wiki/How_To_Assemble_A_Desktop_PC" target="_blank">Wikibooks: How To Assemble A Desktop PC</a><br />
+General guide to building a PC</p>
+<p style="padding-left: 30px;"><a href="http://lifehacker.com/5826509/how-to-build-a-computer-from-scratch-lesson-1-hardware-basics" target="_blank">Lifehacker: How to Build a Computer from Scratch</a></p>
+<p>Some great YouTube videos also really helped me through the process when I got stuck and eliminated some of the guesswork:</p>
+<p><iframe src="http://www.youtube.com/embed/Rvbh_yiOmDg?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+<p>An almost identical build to mine.</p>
+<p><iframe src="http://www.youtube.com/embed/ot0h4G-BmJM?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+<p>A general guide to building a PC with some useful tips.</p>
+<p><iframe loading="lazy" src="http://www.youtube.com/embed/gsSAOH0UFDk?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+<p>A rather lengthy but useful step-by-step Hackintosh build.</p>
+<h3>Step-By-Step</h3>
+<p>Here are the steps I took. There a few but it's not as daunting as it looks (honest):<b><b><br />
+</b></b></p>
+<ol>
+<ol>
+<li dir="ltr">Remove case sides from by loosening four thumb screws.</li>
+<li dir="ltr">Snap motherboard I/O panel into corresponding cutout at rear of case.</li>
+<li dir="ltr">Place motherboard on the nine pre-installed standoffs so that ports align with I/O panel cutouts and then screw into place using motherboard screws (came with the case). It helps to have the case on its side so that the motherboard is horizontal.</li>
+<li dir="ltr">Install CPU on motherboard: open the metal bracket lever, lift the bracket, remove the plastic CPU socket cover, place the CPU on the socket using two notches for positioning, close CPU bracket and firmly close the bracket lever.</li>
+<li dir="ltr">Install cooler bracket on rear of motherboard (accessible via a cutout in the case).</li>
+<li dir="ltr">Insert four cooler standoff thumbscrews into cooler bracket via front of motherboard. These standoffs were slightly loose, even when fully screwed in but a quick search on the <a href="http://forum.corsair.com/v3/showthread.php?t=104576" target="_blank">Corsair user forum</a> reassured me that this wasn’t a problem. The cooler is snug once fitted.</li>
+<li dir="ltr">Carefully place the cooler pump onto the CPU, aligning four screw holes with those of the standoffs beneath, then firmly secure in place with the four cooler screws. I rested the cooler radiator on the optical drive bay cage so that it was out of the way during this process.</li>
+<li dir="ltr">Remove the pre-installed 120mm fan from the case’s back panel and relocate to one of the mounts at the top of the case.</li>
+<li dir="ltr">Install the cooler fan and radiator into the newly vacated mount in the case back.</li>
+<li dir="ltr">Install the two RAM modules into the two grey slots to the right of the CPU, using notches for proper alignment.</li>
+<li dir="ltr">Remove the top three expansion slot brackets from the top of the case keeping the thumbscrews safe.</li>
+<li dir="ltr">Install the WiFi card in the topmost PCI Express x1 slot directly beneath the cooler radiator and secure with one of the thumbscrews from the last step.</li>
+<li dir="ltr">Carefully install the graphics card into the topmost PCI Express x16 slot ensuring that its ports align with the empty expansion slots. Secure with the thumbscrews.</li>
+<li dir="ltr">Remove the top panel from the 5.25" drive bay and slide the optical drive into place.</li>
+<li dir="ltr">Slide out the top hard drive bracket from its cage, fit the 2.5” SSD into the bracket with four screws and slide back into place.</li>
+<li dir="ltr">Repeat the process with the 3.5” HDD in another vacant drive bracket.</li>
+<li dir="ltr">Install the power supply in the bottom rear of the case (fan facing down for hard floors, facing up for carpet). Secure with four screws via the back of the case.</li>
+<li dir="ltr">Attach front panel cables and fan cables to the correct sockets on the motherboard (refer to the motherboard manual). The case front and side fans require a direct connection to the power supply via detachable cable whilst other the other fans and cooler connect to the motherboard. Connect the front panel USB cable to the motherboard’s USB 3.0/2.0 header #2 or #3.</li>
+<li dir="ltr">Attach the 2x4 and 2x12 power connectors from power supply to corresponding motherboard sockets.</li>
+<li dir="ltr">Connect SSD and HDD SATA cables to motherboard via white SATA3 socket.</li>
+<li dir="ltr">Connect Optical Drive SATA cable to motherboard via black SATA2 socket.</li>
+<li dir="ltr">Connect Optical Drive SSD and HDD to power supply.</li>
+<li dir="ltr">Connect Graphics Card to power supply with via two 6-pin PCI-E cables.</li>
+<li dir="ltr">Replace case side panels, remembering to connect side case fan cable.</li>
+<li dir="ltr">Attach a display, wired keyboard and mouse.</li>
+</ol>
+</ol>
+<p>It took some time to get my cable management organised using the case cutouts and rubber grommets but after a bit of fiddling, I had things relatively neat, tidy and tucked away out of sight.</p>
+<p>I was now the proud owner of snazzy looking PC. The next step was to configure the motherboard.</p>
+<h3>The Motherboard BIOS</h3>
+<p>Upon initial boot I held my breath and the “delete” key. Thankfully I was greeted with the motherboard startup screen. From there I configured the motherboard BIOS to suit my setup, following <a href="http://www.tonymacx86.com/99-quick-guide-configuring-uefi-gigabyte-s-7-series-lga-1155-boards.html" target="_blank">these settings on tonymacx86.com</a>.</p>
+<p>That done, it was time to install OS X.</p>
+<h3>OS X Mountain Lion Installation</h3>
+<p>To install OS X on my Hackintosh, I followed <a href="http://www.tonymacx86.com/61-unibeast-install-os-x-mountain-lion-any-supported-intel-based-pc.html" target="_blank">tonymacx86’s UniBeast instructions</a> to make a bootable USB thumb drive.</p>
+<p>I then rebooted the Hackintosh via the Unibeast USB thumb drive and installed OS X.</p>
+<p>The final step once OS X Mountain Lion has been installed is to run tonymacx86’s MultiBeast to ensure that all the relevant drivers are installed. <a href="http://www.tonymacx86.com/golden-builds/73112-updated-storks-thunderbolt-build-i5-3570k-ga-z77x-up5-th-gtx-650-ti-mountain-lion-17.html#post453948" target="_blank">Stork's Thunderbolt Build</a> helped with some of the more detailed hardware specific settings.</p>
+<h3>IT’S ALIVE!</h3>
+<p>So far everything seems to be working fine. I haven’t tested all the ports or done any seriously processor intensive work but the system is noticeably more snappy than the old Mac Pro.</p>
+<p>Future OS X updates will inevitably be a little more involved but nothing beats the feeling of having built a more cost effective and flexible machine.</p>
+<p>With this being my first build, I took my time. There were some slightly scary moments when handling very expensive and inherently fragile components so I wasn’t in a massive rush. It took me around a weekend from start to finish but an expert could complete the build in a few hours.</p>
+<p>It's probably not a project for technophobes but if you're inclined and fancy a challenge, I can heartily recommend building your own Hackintosh.</p>
+<p>Just don't tell Apple.</p>
+<p>The post <a href="https://www.jamesstiff.com/2013/01/22/hackintosh/">Hackintosh</a> appeared first on <a href="https://www.jamesstiff.com">James Stiff</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">104</post-id>	</item>
+		<item>
+		<title>A belated &#8220;Hello&#8221; to 2013</title>
+		<link>https://www.jamesstiff.com/2013/01/11/a-belated-hello-to-2013/</link>
+		
+		<dc:creator><![CDATA[stiffy]]></dc:creator>
+		<pubDate>Fri, 11 Jan 2013 16:06:12 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://www.jamesstiff.com/?p=96</guid>
+
+					<description><![CDATA[<p>We're almost halfway through the first month of the new year so I'm already a little late in posting the obligatory 2012 recap. Soz. You may have noticed that 2012 passed without the eagerly anticipated apocalypse. Check out a little festive mix I created to mark the non-event. Personally, the year was a mixed bag, [&#8230;]</p>
+<p>The post <a href="https://www.jamesstiff.com/2013/01/11/a-belated-hello-to-2013/">A belated &#8220;Hello&#8221; to 2013</a> appeared first on <a href="https://www.jamesstiff.com">James Stiff</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img data-recalc-dims="1" loading="lazy" decoding="async" class="alignnone size-full wp-image-98" alt="MMXIII" src="https://i0.wp.com/stiffy.thisistap.com/wp-content/uploads/2014/06/JS_MMXIII_110113_02_v3mv6a.png?resize=770%2C214" width="770" height="214" /></p>
+<p>We're almost halfway through the first month of the new year so I'm already a little late in posting the obligatory 2012 recap. Soz.</p>
+<p>You may have noticed that 2012 passed without the eagerly anticipated apocalypse. Check out a <a title="Black Xmas Mix on 8tracks" href="http://8tracks.com/jamesstiff74/black-xmas-mix-211212" target="_blank">little festive mix</a> I created to mark the non-event.</p>
+<p><iframe loading="lazy" style="border: 0px none;" src="http://8tracks.com/mixes/1139462/player_v3_universal" height="450" width="900"></iframe></p>
+<p>Personally, the year was a mixed bag, but the highs definitely outweighed the lows.</p>
+<p>It started with a sad farewell to Stiff Rowlands, my agency of four years. Tears were shed.</p>
+<p>I was lucky enough to continue working with The Rolling Stones and the success of the official Brussels Affair bootleg led to the redesign of <a title="The Rolling Stones: Archive Website" href="http://www.jamesstiff.com/2012/11/23/the-rolling-stones-archive-website/">Stones Archive</a> and a further four bootleg releases.</p>
+<p>I then had the great privilege of redesigning the official <a title="The Rolling Stones: Official Website" href="http://www.jamesstiff.com/2012/11/23/the-rolling-stones-official-website/">Rolling Stones</a> website in time for their 50th anniversary. The site supported a whole host of activity in 2012: an exhibition, book, film, new tracks, greatest hits album, a takeover of Carnaby Street’s Christmas lights plus a handful of gigs.</p>
+<p>Before the dust even had a chance to settle, I also worked on a couple of great projects with my friends at <a title="Pivotal website" href="http://wearepivotal.com/" target="_blank">Pivotal</a>. I’d love to tell you more about them but I’d probably have to kill you and that would be a shame.</p>
+<p>My year ended on a high with a competition-winning logo design for <a title="Twestival: Logo Design" href="http://www.jamesstiff.com/2012/12/11/twestival-logo-design/" target="_blank">Twestival</a>.</p>
+<p>So, 2013 arrived.</p>
+<p>I actively try to avoid making resolutions, but here are some things I’d like to achieve in 2013:</p>
+<p>• Build a Hackintosh to replace an obsolete Mac Pro<br />
+• Contribute to the recently revived <a title="The Electronic Foundation Of Sound And Vision" href="http://tefosav.com" target="_blank">TEFOSAV</a> - there are already T-shirts in the works and hopefully more to come<br />
+• Brush up on my coding skills which have been somewhat neglected in recent years<br />
+• Create some screenprints<br />
+• Learn some carpentry (if only to avoid the hellish trips to IKEA)<br />
+• Read and re-read David Allen’s “Getting Things Done” until it’s second nature<br />
+• Work on some exciting, new projects</p>
+<p>First up is the Hackintosh as some of the above items will be a bit tricky without it. The parts are ordered, now I’m just waiting on delivery so I can get cracking with the build. Watch this space.</p>
+<p>The post <a href="https://www.jamesstiff.com/2013/01/11/a-belated-hello-to-2013/">A belated &#8220;Hello&#8221; to 2013</a> appeared first on <a href="https://www.jamesstiff.com">James Stiff</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">96</post-id>	</item>
+		<item>
+		<title>Season&#8217;s Greetings!</title>
+		<link>https://www.jamesstiff.com/2012/12/19/seasons-greetings/</link>
+		
+		<dc:creator><![CDATA[stiffy]]></dc:creator>
+		<pubDate>Wed, 19 Dec 2012 12:18:27 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://www.jamesstiff.com/?p=93</guid>
+
+					<description><![CDATA[<p>Season's Greetings! Assuming that the world doesn't end on Friday 21 December 2012, have yourself a very merry festive season and a happy start to 2013! Best wishes James</p>
+<p>The post <a href="https://www.jamesstiff.com/2012/12/19/seasons-greetings/">Season&#8217;s Greetings!</a> appeared first on <a href="https://www.jamesstiff.com">James Stiff</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img data-recalc-dims="1" loading="lazy" decoding="async" class="alignright size-full wp-image-94" title="Seasons Greetings!" alt="Seasons Greetings!" src="https://i0.wp.com/stiffy.thisistap.com/wp-content/uploads/2014/06/Seasons_Greetings_191212_fajhpq.png?resize=770%2C226" width="770" height="226" /></p>
+<h1>Season's Greetings!</h1>
+<p>Assuming that the world doesn't end on Friday 21 December 2012, have yourself a very merry festive season and a happy start to 2013!</p>
+<p>Best wishes</p>
+<p>James</p>
+<p>The post <a href="https://www.jamesstiff.com/2012/12/19/seasons-greetings/">Season&#8217;s Greetings!</a> appeared first on <a href="https://www.jamesstiff.com">James Stiff</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">93</post-id>	</item>
+	</channel>
+</rss>
